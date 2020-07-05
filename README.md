@@ -24,3 +24,4 @@
 * [https://github.com/astaxie/beego](https://github.com/astaxie/beego)
 * [https://github.com/gin-gonic/gin](https://github.com/gin-gonic/gin)
 * [https://github.com/labstack/echo](https://github.com/labstack/echo)
+* [https://github.com/gofiber/fiber](https://github.com/gofiber/fiber)
